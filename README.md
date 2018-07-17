@@ -1,5 +1,5 @@
 # ShutterEndlessScrollView ducument
-<div align=center><img width="350" height="550" src="https://github.com/georgekwock/ShutterEndlessScrollView/blob/master/EnlessScrollView.png"/></div>
+<div align=center><img width="250" height="350" src="https://github.com/georgekwock/ShutterEndlessScrollView/blob/master/EnlessScrollView.png"/></div>
 
 #### 1. Project problems and solution
 1. Shutter Stock Image authentication process
