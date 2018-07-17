@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EndlessScrollView</string>
+    <string name="content_description">Shutter Image</string>
+    <string name="progress_text">Loading..Please wait</string>
+    <string name="auth_title">Authorize ShutterStock APP</string>
+    <string name="toolbar_title_shutter">Shutter Stock Images</string>
+    <string name="error_token">Access Token Error</string>
+    <string name="fetch_end">No more items to load up.</string>
+    <string name="progress_auth_token">Fetching Access Token, please wait</string>
+    <string name="error_auth_failed">Unexpected error while authenticating, try after sometime!</string>
+    <string name="error_head">Error</string>
+    <string name="xml_login">Login</string>
+    <string name="xml_retry">Retry</string>
+    <string name="xml_confirm">Confirm</string>
+    <string name="error_msg">Sorry! Couldn\'t fetch images.Please check your internet.</string>
+    <string name="error_retry">Please check your internet or click to retry.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="shutter_des_default">shutter images</string>
+
+</resources>
