@@ -90,7 +90,6 @@ public class AdapterData {
                             .getPreview() != null) {
                         String shutterId = detail.getId();
                         String shutterDes = detail.getDescription();
-                        String shutterType = detail.getImageType();
                         picasso.load(Uri.parse(detail.getAssets().getPreview().getUrl()))
                                 .fit()
                                 .centerCrop()
