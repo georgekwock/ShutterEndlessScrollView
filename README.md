@@ -2,8 +2,8 @@
 #### 1. Project problems and solution
 1. Shutter Stock Image authentication process
 The authentication has two ways:
-1) Http Basic way: use clientId and clientSecretary to be added in the request header
-2) Oath 2.0:redirect to login page and after login to get the code to fetch token. use the token to get the images.
+a. Http Basic way: use clientId and clientSecretary to be added in the request header
+b. Oath 2.0:redirect to login page and after login to get the code to fetch token. use the token to get the images.
 
 I chose the second way first, but it needs to redirect to login page and input the account and password, this has much more complex logic and has security problem, using okhttp to add the clientId and clientSecretary to the header is much more convenient.
 
